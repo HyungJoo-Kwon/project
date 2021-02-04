@@ -1,7 +1,7 @@
 #### 1. 프로젝트명: DriverPengsoo
 #### 2. 참여기간: 2020-10-21 ~ 2020-11-26
 #### 3. 참여인원: 4명
-#### 4. 역할: 팀원 (UDP통신, Mapping, object tracking, motor algorithm 구현
+#### 4. 역할: 팀원 (UDP통신, Mapping, object tracking, motor algorithm 구현)
 #### 5. 프로젝트 세부내용:
    - 앱과 UDP 통신을 활용하여 전방향 휠을 사용하는 자동차 원격제어
    - 초음파 센서, 웹캠, 마이크를 활용하여 장애물 피하기, 매핑, 음성제어 구현
