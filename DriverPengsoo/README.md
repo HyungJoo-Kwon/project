@@ -1,5 +1,4 @@
-####
-1. 프로젝트명: DriverPengsoo
+#### 1. 프로젝트명: DriverPengsoo
 2. 참여기간: 2020-10-21 ~ 2020-11-26
 3. 참여인원: 4명
 4. 역할: 팀원 (UDP통신, Mapping, object tracking, motor algorithm 구현
