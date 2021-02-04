@@ -13,7 +13,6 @@
       
 
  - 전 후 좌 우 방향
-<!-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)   -->
 <img src="https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif"  width="300" height="200">
 
 - 대각 방향
