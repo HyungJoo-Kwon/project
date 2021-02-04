@@ -11,15 +11,25 @@
 ##### - 라이브러리: opencv, pymongo, mjpg-streamner, RPIO
 
  - 전 후 좌 우 방향   
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)  
+<!-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)   -->
 <img src="https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif"  width="300" height="200">
+
 - 대각 방향   
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106849158-8cc9fb00-66f5-11eb-8f1c-ea61e527b9f2.gif)   
+<!-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106849158-8cc9fb00-66f5-11eb-8f1c-ea61e527b9f2.gif)    -->
+<img src="https://user-images.githubusercontent.com/73815944/106849158-8cc9fb00-66f5-11eb-8f1c-ea61e527b9f2.gif"  width="300" height="200">
+
  - 회전   
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/73815944/106849594-4de87500-66f6-11eb-996b-4efd4ccb269c.gif)   
+<!-- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73815944/106849594-4de87500-66f6-11eb-996b-4efd4ccb269c.gif)    -->
+<img src="https://user-images.githubusercontent.com/73815944/106849594-4de87500-66f6-11eb-996b-4efd4ccb269c.gif"  width="300" height="200">
+
  - 매핑   
-![ezgif com-gif-maker-mapping](https://user-images.githubusercontent.com/73815944/106855032-a3754f80-66ff-11eb-97e5-473442d8533a.gif)   
+<!-- ![ezgif com-gif-maker-mapping](https://user-images.githubusercontent.com/73815944/106855032-a3754f80-66ff-11eb-97e5-473442d8533a.gif)    -->
+<img src="https://user-images.githubusercontent.com/73815944/106855032-a3754f80-66ff-11eb-97e5-473442d8533a.gif"  width="300" height="200">
+
  - 객체 인식    
-![ezgif com-gif-maker-detect](https://user-images.githubusercontent.com/73815944/106855035-a40de600-66ff-11eb-8e59-7f8da6720928.gif)   
+<!-- ![ezgif com-gif-maker-detect](https://user-images.githubusercontent.com/73815944/106855035-a40de600-66ff-11eb-8e59-7f8da6720928.gif)    -->
+<img src="https://user-images.githubusercontent.com/73815944/106855035-a40de600-66ff-11eb-8e59-7f8da6720928.gif"  width="300" height="200">
+
  - 장애물 피하기   
-![ezgif com-gif-maker-move](https://user-images.githubusercontent.com/73815944/106855024-a112f580-66ff-11eb-898c-0df743c9ca4d.gif)   
+<!-- ![ezgif com-gif-maker-move](https://user-images.githubusercontent.com/73815944/106855024-a112f580-66ff-11eb-898c-0df743c9ca4d.gif)    -->
+<img src="https://user-images.githubusercontent.com/73815944/106855024-a112f580-66ff-11eb-898c-0df743c9ca4d.gif"  width="300" height="200">
