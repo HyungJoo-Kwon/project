@@ -7,9 +7,10 @@
 
 #### mjpg_streamer를 이용하여 웹캠 서버 사용
 
-
+전방향 구동
+ - 전 후 좌 우 방향
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)
-
+ - 대각 방향
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106849158-8cc9fb00-66f5-11eb-8f1c-ea61e527b9f2.gif)
-
+ - 회전
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73815944/106849594-4de87500-66f6-11eb-996b-4efd4ccb269c.gif)
