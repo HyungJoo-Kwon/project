@@ -8,7 +8,7 @@
    - 자동차 제어에 사용된 데이터 몽고DB에 저장
 #### 6. 사용언어 및 버전: Python 3.8.3
 #### 7. 사용툴: visiual studio code 1.52.1, android studio 4,1,1 
-#### 8. 라이브러리: opencv, pymongo, mjpg-streamer, RPIO
+#### 8. 라이브러리: opencv, pymongo, mjpg-streamer, RPI
    
       
 <br>
