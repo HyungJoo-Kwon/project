@@ -1,14 +1,14 @@
 ### 프로젝트명: DriverPengsoo
-### 참여기간: 2020-10-21 ~ 2020-11-26
-### 참여인원: 4
-### 역할: 프로그래밍
-### 프로젝트 세부내용: 
-###          앱과 UDP 통신을 활용하여 전방향 휠을 사용하는 자동차 원격제어
-###          초음파 센서, 웹캠, 마이크를 활용하여 장애물 피하기, 매핑, 음성제어 구현
-###          자동차 제어에 사용된 데이터 몽고DB에 저장
-### - 사용언어 및 버전: Python 3.8.3
-### - 사용툴: visiual studio code, android studio, 
-### - 라이브러리: opencv, pymongo, mjpg-streamner, RPIO
+#### 참여기간: 2020-10-21 ~ 2020-11-26
+#### 참여인원: 4
+#### 역할: 프로그래밍
+#### 프로젝트 세부내용: 
+####          앱과 UDP 통신을 활용하여 전방향 휠을 사용하는 자동차 원격제어
+####          초음파 센서, 웹캠, 마이크를 활용하여 장애물 피하기, 매핑, 음성제어 구현
+####          자동차 제어에 사용된 데이터 몽고DB에 저장
+##### - 사용언어 및 버전: Python 3.8.3
+##### - 사용툴: visiual studio code, android studio, 
+##### - 라이브러리: opencv, pymongo, mjpg-streamner, RPIO
 
  - 전 후 좌 우 방향   
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)   
