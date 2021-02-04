@@ -7,7 +7,7 @@
    - 초음파 센서, 웹캠, 마이크를 활용하여 장애물 피하기, 매핑, 음성제어 구현
    - 자동차 제어에 사용된 데이터 몽고DB에 저장
 #### 6. 사용언어 및 버전: Python 3.8.3
-#### 7. 사용툴: visiual studio code, android studio, 
+#### 7. 사용툴: visiual studio code 1.52.1, android studio 4,1,1 
 #### 8. 라이브러리: opencv, pymongo, mjpg-streamer, RPIO
    
       
