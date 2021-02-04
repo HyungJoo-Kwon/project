@@ -1,14 +1,14 @@
 #### 1. 프로젝트명: DriverPengsoo
-2. 참여기간: 2020-10-21 ~ 2020-11-26
-3. 참여인원: 4명
-4. 역할: 팀원 (UDP통신, Mapping, object tracking, motor algorithm 구현
-5. 프로젝트 세부내용:
+#### 2. 참여기간: 2020-10-21 ~ 2020-11-26
+#### 3. 참여인원: 4명
+#### 4. 역할: 팀원 (UDP통신, Mapping, object tracking, motor algorithm 구현
+#### 5. 프로젝트 세부내용:
    -앱과 UDP 통신을 활용하여 전방향 휠을 사용하는 자동차 원격제어
    - 초음파 센서, 웹캠, 마이크를 활용하여 장애물 피하기, 매핑, 음성제어 구현
    - 자동차 제어에 사용된 데이터 몽고DB에 저장
-6. 사용언어 및 버전: Python 3.8.3
-7. 사용툴: visiual studio code, android studio, 
-8. 라이브러리: opencv, pymongo, mjpg-streamner, RPIO
+#### 6. 사용언어 및 버전: Python 3.8.3
+#### 7. 사용툴: visiual studio code, android studio, 
+#### 8. 라이브러리: opencv, pymongo, mjpg-streamner, RPIO
    
       
 
