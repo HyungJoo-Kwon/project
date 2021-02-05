@@ -6,6 +6,6 @@
    - Yolo v3를 통해 수집한 데이터 학습
    - 학습을 바탕으로 분류하여 신호등의 신호를 인식
 #### 6. 사용언어 및 버전: Python 3.8.3
-#### 7. 사용툴: visiual studio code 1.52.1, android studio 4.1.1, Yolo v3
+#### 7. 사용툴: visiual studio code 1.52.1, android studio 4.1.1, Yolo v3, Flask, Labelimg
 
    
