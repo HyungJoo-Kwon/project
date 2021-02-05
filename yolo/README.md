@@ -8,4 +8,4 @@
 #### 6. 사용언어 및 버전: Python 3.8.3
 #### 7. 사용툴: visiual studio code 1.52.1, android studio 4.1.1, Yolo v3, Flask, Labelimg
 
-   
+[1212.pdf](https://github.com/HyungJoo-Kwon/project/files/5931150/1212.pdf)
