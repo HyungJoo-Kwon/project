@@ -47,7 +47,7 @@ def entire_moment(img): # 제품의 무게중심
     return (cX, cY)
     
 
-src = function.imread("./images\pcb\양품1_1.bmp")
+src = function.imread(".\connector\python\images\pcb\양품1_1.bmp")
 # 홀불량6_1.bmp 불가
 src = function.FitToWindowSize(src)
 img = src.copy()

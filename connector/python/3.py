@@ -38,7 +38,7 @@ def select_near_point(list, x): # 전역변수에다 집어넣는 방식 이용
         
 
 
-img = function.imread("./images/01_connecter_1/2.bmp")
+img = function.imread("./connector/python/images/01_connecter_1/2.bmp")
 src = img.copy()
 src_gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
 _, binary = cv2.threshold(src_gray, 120, 255, cv2.THRESH_BINARY_INV) 

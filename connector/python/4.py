@@ -49,7 +49,7 @@ def meet_point(a1, b1, a2, b2): # 두 직선의 기울기와 절편을 이용해
     y = a1*((b2-b1)/(a1-a2)) + b1
     return (int(x), int(y))
 
-img = function.imread("./images/03_connector_2-01/핀 - 각도/1. 원본.bmp")
+img = function.imread("./connector/python/images/03_connector_2-01/핀 - 각도/1. 원본.bmp")
 src = img.copy()
 check = img.copy()
 src_gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)

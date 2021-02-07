@@ -41,7 +41,7 @@ def find_length_point(x,y,x1,y1):
 # for i in range(30):
 #     filename.append("./04_top/" + str(i) + ".bmp")
 
-src = function.imread("./04_top/10.bmp")
+src = function.imread("./connector/python/images/04_top/10.bmp")
 src = function.FitToWindowSize(src) # 이미지 크기 조절 후에 이미지 처리한 상태
                                     # 이미지 처리 후 이미지 크기 조절해야
 src_gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
@@ -212,7 +212,7 @@ for i in range(len(corners)):
 # 이미지 부드럽게 가우시안 블러링(Gaussian Blurring), 블러링 등을 사용해야
 
 cv2.imshow("src",src)
-cv2.imshow("contour", cnt)
+#cv2.imshow("contour", cnt)
 
 
 
