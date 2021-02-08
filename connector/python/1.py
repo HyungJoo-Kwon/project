@@ -3,11 +3,12 @@ import numpy as np
 import function
 
 def appear_result(circle_count, no_circle_count):
+    result_point = (50, 150)
     if (circle_count != 6):
         sentence = "Holl Error"
         cv2.putText(img, sentence, result_point, cv2.FONT_HERSHEY_COMPLEX, 2, (0, 0, 255) , 2)
     else :
-        if (no_circle_count < 12 and no_circle_count > 14):
+        if (no_circle_count < 12 or no_circle_count > 14):
             sentence = "Rectangle Error"
             cv2.putText(img, sentence, result_point, cv2.FONT_HERSHEY_COMPLEX, 2, (0, 0, 255) , 2)
 
@@ -47,7 +48,7 @@ def entire_moment(img): # 제품의 무게중심
     return (cX, cY)
     
 
-src = function.imread(".\connector\python\images\pcb\양품1_1.bmp")
+src = function.imread(".\connector\python\images\pcb\양품12_1.bmp")
 # 홀불량6_1.bmp 불가
 src = function.FitToWindowSize(src)
 img = src.copy()
@@ -116,6 +117,7 @@ cv2.circle(img, entire_moment_point, 5, (0, 0, 255), -1)
 #print("contour count", i)
 
 cv2.imshow("img", img)
+cv2.imshow("src", src)
 #cv2.imshow("9x9 kernel close_img", close_img)
 
 cv2.waitKey(0)

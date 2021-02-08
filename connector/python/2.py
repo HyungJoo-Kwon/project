@@ -41,9 +41,10 @@ def find_length_point(x,y,x1,y1):
 # for i in range(30):
 #     filename.append("./04_top/" + str(i) + ".bmp")
 
-src = function.imread("./connector/python/images/04_top/10.bmp")
+src = function.imread("./connector/python/images/04_top/4.bmp")
 src = function.FitToWindowSize(src) # 이미지 크기 조절 후에 이미지 처리한 상태
                                     # 이미지 처리 후 이미지 크기 조절해야
+img = src.copy()
 src_gray = cv2.cvtColor(src, cv2.COLOR_BGR2GRAY)
 # https://076923.github.io/posts/Python-opencv-14/
 src_laplacian = cv2.Laplacian(src_gray, cv2.CV_8U, ksize= 3)    # 가장자리 검출
@@ -211,7 +212,8 @@ for i in range(len(corners)):
 
 # 이미지 부드럽게 가우시안 블러링(Gaussian Blurring), 블러링 등을 사용해야
 
-cv2.imshow("src",src)
+cv2.imshow("src", src)
+cv2.imshow("img", img)
 #cv2.imshow("contour", cnt)
 
 
