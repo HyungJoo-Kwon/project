@@ -5,4 +5,4 @@
  
 ### Connector with openCV [[C++](https://github.com/HyungJoo-Kwon/project/tree/main/connector/C%2B%2B)] [[Python](https://github.com/HyungJoo-Kwon/project/tree/main/connector/python)]
 
-### Kaggle Xray Project (진행중..) [[이동](https://github.com/HyungJoo-Kwon/project/tree/main/DriverPengsoo)]
+### Kaggle Xray Project (진행중..) [[이동](https://github.com/HyungJoo-Kwon/project/tree/main/Kaggle%20X-Ray%20project)]
