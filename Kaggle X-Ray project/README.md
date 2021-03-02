@@ -49,7 +49,7 @@ zip > 로컬에 다시 풀면 300GB 넘음 (여유있게 350GB 필요) → 이�
 + PPTX (나눔스퀘어, Noto Sans)
 [PPT최종_210226.pptx](https://github.com/X-Ray-Project/main/files/6047455/PPT._210226.pptx)
 + PDF
-[PPT최종_210226.pdf](https://github.com/X-Ray-Project/main/files/6047463/PPT._210226.pdf)
+[PPT최종_210226.pdf]https://github.com/HyungJoo-Kwon/project/blob/main/Kaggle%20X-Ray%20project/PPT._210226.pdf
 
 #### 이후 계획 요약(~3월 31일)
   : 각자 공부 중인 모델 학습 및 submission
