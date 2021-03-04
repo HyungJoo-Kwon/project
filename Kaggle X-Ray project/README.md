@@ -39,3 +39,8 @@ _Step 3-2_ (2월 26일 최종 발표 )
   + EfficientDet
   + DETR
   + DetectoRS_ResNet
+
+#### 결과
+![11](https://user-images.githubusercontent.com/73815944/109898600-e4995900-7cd7-11eb-8823-2935e0d0c259.png)
+![22](https://user-images.githubusercontent.com/73815944/109898603-e531ef80-7cd7-11eb-8dab-3c109e37101b.png)
+![33](https://user-images.githubusercontent.com/73815944/109898606-e5ca8600-7cd7-11eb-8dc6-bcbb6f4f2a46.png)
