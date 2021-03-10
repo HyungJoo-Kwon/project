@@ -6,3 +6,4 @@ limit > 0.25, query = 100, epoch = 300 // score = 0.032
 limit > 0.3, query = 100, epoch = 300 // score = 0.053    
 limit > 0.3, query = 100, epoch = 300 // score = 0.053    
   
+![11](https://user-images.githubusercontent.com/73815944/109898600-e4995900-7cd7-11eb-8823-2935e0d0c259.png)
