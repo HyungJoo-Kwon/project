@@ -30,7 +30,7 @@ _Step 3-2_ (2월 26일 최종 발표 )
 
 #### 26일 중간 결과
 + PPTX (나눔스퀘어, Noto Sans)
-[PPT최종_210226.pptx](https://github.com/X-Ray-Project/main/files/6047455/PPT._210226.pptx)
+[PPT최종.pptx](https://github.com/HyungJoo-Kwon/project/blob/main/Kaggle%20X-Ray%20project/PPT%EC%B5%9C%EC%A2%85%EC%88%98%EC%A0%95%EB%B3%B8_210312.pptx)
 + PDF
 [최종본.pdf](https://github.com/HyungJoo-Kwon/project/blob/main/Kaggle%20X-Ray%20project/%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
 
