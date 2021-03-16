@@ -40,7 +40,11 @@ _Step 3-2_ (2월 26일 최종 발표 )
   + DETR
   + DetectoRS_ResNet
 
-#### 결과
+#### 결과     
+Yolo    
+![yolo](https://user-images.githubusercontent.com/73815944/111266466-f1ba2e80-866d-11eb-99eb-93c348068101.PNG)      
+Detr
+![detr](https://user-images.githubusercontent.com/73815944/111266491-f8e13c80-866d-11eb-884a-aad85d30c274.PNG)  
 ![11](https://user-images.githubusercontent.com/73815944/109898600-e4995900-7cd7-11eb-8823-2935e0d0c259.png)
 ![22](https://user-images.githubusercontent.com/73815944/109898603-e531ef80-7cd7-11eb-8dab-3c109e37101b.png)
 ![33](https://user-images.githubusercontent.com/73815944/109898606-e5ca8600-7cd7-11eb-8dc6-bcbb6f4f2a46.png)
