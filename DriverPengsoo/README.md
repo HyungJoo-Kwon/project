@@ -29,7 +29,7 @@
 <!-- ![ezgif com-gif-maker-mapping](https://user-images.githubusercontent.com/73815944/106855032-a3754f80-66ff-11eb-97e5-473442d8533a.gif)    -->
 <img src="https://user-images.githubusercontent.com/73815944/106855032-a3754f80-66ff-11eb-97e5-473442d8533a.gif"  width="400" height="300">
 
- - 객체 인식
+ - 객체 추적
 <!-- ![ezgif com-gif-maker-detect](https://user-images.githubusercontent.com/73815944/106855035-a40de600-66ff-11eb-8e59-7f8da6720928.gif)    -->
 <img src="https://user-images.githubusercontent.com/73815944/106855035-a40de600-66ff-11eb-8e59-7f8da6720928.gif"  width="400" height="300">
 
