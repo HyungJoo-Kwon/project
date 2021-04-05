@@ -12,6 +12,8 @@
    
       
 <br>
+![1212123](https://user-images.githubusercontent.com/73815944/113534506-e4a8b380-960b-11eb-8b9e-ac9cb4ed00c5.PNG)
+
 
  - 전 후 좌 우 방향
 <!-- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/73815944/106848726-db2aca00-66f4-11eb-938e-7a0a59c81e7c.gif)   -->
